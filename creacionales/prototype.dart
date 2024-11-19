@@ -1,3 +1,9 @@
+// PROTOTYPE
+/*
+Permite crear nuevos objetos clonando un objeto existente sin necesidad
+de hacerlo desde cero.
+*/
+
 abstract class Prototype {
   Prototype clone();
 }

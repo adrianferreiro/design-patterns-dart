@@ -1,3 +1,9 @@
+// SINGLETON
+/*
+Asegura que solo exista una instancia de una clase durante la ejecución del
+programa que puede ser accedida de forma global.
+*/
+
 class Singleton {
   //crear instancia estática privada
   static final Singleton _instance = Singleton._internal();
