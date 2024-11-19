@@ -1,5 +1,3 @@
-import 'observer.dart';
-
 class JobPost {
   final String title;
   JobPost(this.title);
